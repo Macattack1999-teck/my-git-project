@@ -7,4 +7,4 @@ def my_fun() {
 }
 
 def hi_there():
-  print('hi')
+  print('hi there')
