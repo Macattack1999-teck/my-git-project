@@ -4,3 +4,6 @@ My code for my-git-project
 ## git checkout master will put me into the master branch and shows masters code is untouched.
 
 added to master
+added to master
+added to master
+added to master
